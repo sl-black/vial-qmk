@@ -1,3 +1,11 @@
+# keyboard folders
+keyboards/*
+!keyboards/cheapino
+!keyboards/crkbd
+!keyboards/helix
+!keyboards/lily58
+!keyboards/waterfowl
+
 # Junk files
 *.bak
 *.swp
